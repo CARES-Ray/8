@@ -45,23 +45,23 @@ import {
 let linksData = [
   {
     icon: Blog,
-    name: "Ray の博客",
+    name: "Ray の轻博客",
     link: "https://raybynobodycares.gitee.io/",
+  },
+   {
+    icon: Book
+    name: "Ray のQQBot",
+    link: "https://res.abeim.cn/api/qq/?qq=3132291330",
   },
   {
     icon: CompactDisc,
-    name: "Ray 在摸鱼",
-    link: "https://www.crazygames.com/",
+    name: "Ray 摸鱼ing",
+    link: "https://www.yikm.net/",
   },
   {
     icon: Fire,
     name: "今日の热榜",
     link: "https://hot.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "友链の资源",
-    link: "https://www.noiseyp.top/",
   }
 ];
 
