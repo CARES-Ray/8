@@ -62,7 +62,7 @@ let linksData = [
     icon: Fire,
     name: "今日の热榜",
     link: "https://hot.imsyy.top/",
-  }
+  },
 ];
 
 // 链接跳转
